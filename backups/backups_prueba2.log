@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1755789397117",
+        "nombre": "respaldo_prueba2_20250821_171636.sql",
+        "fecha": "2025-08-21 17:16:37",
+        "tama\u00f1o": 11656,
+        "tama\u00f1o_formateado": "11.38 KB",
+        "tipo": "Completo",
+        "origen": "manual",
+        "ruta": "C:\/xampp\/htdocs\/pastel\/backups\/respaldo_prueba2_20250821_171636.sql",
+        "estado": "completado"
+    }
+]
